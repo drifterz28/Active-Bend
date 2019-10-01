@@ -24,19 +24,16 @@ Please check out our calendar and feel free to join our [slack channel](https://
   - Medium crust?
   - Beer pitchers
 
-###Tacos
+### Tacos
 
-El Sancho (food truck)
-
-Chicken
-
-Spork
-
-Burritos
-Super Burrito
-Taco Salsa
-Smaller, greasier, but lots of variety
-Open till 4am
+- El Sancho (food truck)
+- Chicken
+- Spork
+- Burritos
+- Super Burrito
+- Taco Salsa
+  - Smaller, greasier, but lots of variety
+  - Open till 4am
 
 
 ### Basic markdown
