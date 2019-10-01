@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
+We are a group of people who are located in Bend or the surrounding area who love the outdoors.
 
-You can use the [editor on GitHub](https://github.com/drifterz28/active-bend/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Please check out our calendar and feel free to join our [slack channel](https://join.slack.com/t/activebend/shared_invite/enQtNjIxNzA1OTkxMDg5LWI0MTFmNGM3ZjU4OWNiZGNhNzliNDZmMjJjNDhiZmViZGViMWQwM2JmZTNmODExYjc2ZDhjZmVhNThkMTBhYWQ)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
