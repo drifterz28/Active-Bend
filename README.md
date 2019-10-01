@@ -83,4 +83,4 @@ Please check out our calendar and feel free to join our [slack channel](https://
 
 [Link](url) and ![Image](src)
 ```
-more makedown info (here)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+more makedown info [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
