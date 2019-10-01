@@ -3,7 +3,8 @@ We are a group of people who are located in Bend or the surrounding area who lov
 
 Please check out our calendar and feel free to join our [slack channel](https://join.slack.com/t/activebend/shared_invite/enQtNjIxNzA1OTkxMDg5LWI0MTFmNGM3ZjU4OWNiZGNhNzliNDZmMjJjNDhiZmViZGViMWQwM2JmZTNmODExYjc2ZDhjZmVhNThkMTBhYWQ)
 
-<iframe src="https://calendar.google.com/calendar/embed?src=pqjc1ou83rg5ei4vdnjntejc2s%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=pqjc1ou83rg5ei4vdnjntejc2s%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
+</iframe>
 
 ```markdown
 Syntax highlighted code block
