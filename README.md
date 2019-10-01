@@ -70,6 +70,41 @@ Please check out our calendar and feel free to join our [slack channel](https://
   - Smaller, greasier, but lots of variety
   - Open till 4am
 
+## Local Nights
+
+**Monday**
+- Deschutes Pub: pub burger 8$, beer specials
+- Silver Moon: 1.50$ off pints, 2 tacos for 6$
+- Drake: steak frites special
+- Crater Lake Spirits: free tasting?
+- JCs Bar: 2.50$ drafts
+- On Tap: happy hour all day
+- Cascade Lakes Brewing: 1$ off Brewers choice
+- Tumalo Cider: 4$ pints
+
+**Tuesday**
+- Bend Brewing Co: 3.50$ pints, half priced apps for happy hour
+- Immersion: 2$ off drafts
+- Cascade Lakes: Taco Tuesday 4$ margs
+- Cabin 22: Taco Tuesday 5$ margs
+
+**Wednesday**
+- White Water Taphouse: 1$ off pints (sushi wed - Fri)
+- Sunriver brewing: 1$ off pints and food special
+- Craft Kitchen: sandwich and beer 10$
+- Cascade Lakes Brewing
+- Rat Hole: 3$ pints until 8
+- Wild Ride Redmond
+- JCs 75 cent wings
+
+**Thursday**
+- Worthy Brewing: free chips + salsa, discount beer + tacos
+- Good Life: 3$ select pints
+
+**All week**
+- Cruz at sunset
+- The Commons happy hour
+
 
 ### Basic markdown
 ```
