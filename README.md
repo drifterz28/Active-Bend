@@ -6,6 +6,8 @@ Please check out our calendar and feel free to join our [slack channel](https://
 <iframe src="https://calendar.google.com/calendar/embed?src=pqjc1ou83rg5ei4vdnjntejc2s%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
 </iframe>
 
+## 
+
 ## Beer
 
 - (Deschutes Brewery)[https://goo.gl/maps/vfhEZDnvSLwMzjPx9]
@@ -81,3 +83,4 @@ Please check out our calendar and feel free to join our [slack channel](https://
 
 [Link](url) and ![Image](src)
 ```
+more makedown info (here)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
