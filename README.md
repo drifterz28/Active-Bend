@@ -10,36 +10,36 @@ Please check out our calendar and feel free to join our [slack channel](https://
 
 ## Beer
 
-- (Deschutes Brewery)[https://goo.gl/maps/vfhEZDnvSLwMzjPx9]
+- [Deschutes Brewery](https://goo.gl/maps/vfhEZDnvSLwMzjPx9)
 - Cascade Lakes Brewery
-- (Bend Brewing Company)[https://goo.gl/maps/dGRui3meCHZtr6y28]
-- (Silver Moon Brewing)[https://goo.gl/maps/iPMsDMRFsAVSZW848]
-- (McMenamins St. Francis School)[https://goo.gl/maps/sKgHfW9XBAj1RZF28]
+- [Bend Brewing Company](https://goo.gl/maps/dGRui3meCHZtr6y28)
+- [Silver Moon Brewing](https://goo.gl/maps/iPMsDMRFsAVSZW848)
+- [McMenamins St. Francis School](https://goo.gl/maps/sKgHfW9XBAj1RZF28)
 - 10 Barrel Brewing Co
-  - (west)[https://goo.gl/maps/wGDLiiZDvc8LcBMSA]
-  - (east)[https://goo.gl/maps/NjWcGAjGkzC3bqzT9]
-- (Boneyard Beer)[https://goo.gl/maps/Fngt73TxhiHYz5f7A]
+  - [west](https://goo.gl/maps/wGDLiiZDvc8LcBMSA)
+  - [east](https://goo.gl/maps/NjWcGAjGkzC3bqzT9)
+- [Boneyard Beer](https://goo.gl/maps/Fngt73TxhiHYz5f7A)
 - Below Grade Brewing
 - Old Mill Brew Wërks
-- (GoodLife Brewing Co)[https://goo.gl/maps/BA5w2PnLwj6AFXky6]
-- (The Ale Apothecary)[https://goo.gl/maps/HK9xe8GBCmh3BfYa7]
-- (Crux Fermentation Project)[https://g.page/cruxfermentationproject]
-- (Sunriver Brewing Company)[https://goo.gl/maps/DEd7CPnQFKv4yg2DA]
+- [GoodLife Brewing Co](https://goo.gl/maps/BA5w2PnLwj6AFXky6)
+- [The Ale Apothecary](https://goo.gl/maps/HK9xe8GBCmh3BfYa7)
+- [Crux Fermentation Project](https://g.page/cruxfermentationproject)
+- [Sunriver Brewing Company](https://goo.gl/maps/DEd7CPnQFKv4yg2DA)
 - Shade Tree Brewing
 - Rat Hole Brewing
-- (Worthy Brewing Co)[https://goo.gl/maps/7Z2gxWVsCEZdsyRP8]
-- (Oblivion Brewing Co)[https://goo.gl/maps/n4tVPfuwFCEuXQCW9]
-- (Bridge 99)[https://goo.gl/maps/yPWxdxfY1K65K8PP7]
+- [Worthy Brewing Co](https://goo.gl/maps/7Z2gxWVsCEZdsyRP8)
+- [Oblivion Brewing Co](https://goo.gl/maps/n4tVPfuwFCEuXQCW9)
+- [Bridge 99](https://goo.gl/maps/yPWxdxfY1K65K8PP7)
 - Platypus
 - North Rim Brewing
-- (Monkless Belgian Ales)[https://goo.gl/maps/T745TzxRRP3B1WA8A]
-- (Craft Kitchen & Brewery)[https://goo.gl/maps/fvKPu74gqurT6BLd6]
+- [Monkless Belgian Ales](https://goo.gl/maps/T745TzxRRP3B1WA8A)
+- [Craft Kitchen & Brewery](https://goo.gl/maps/fvKPu74gqurT6BLd6)
 - Fresh Tracks Brewing
 - Kobold Brewing
-- (Immersion Brewing)[https://goo.gl/maps/aVxkCfzwWgwUYYVD6]
+- [Immersion Brewing](https://goo.gl/maps/aVxkCfzwWgwUYYVD6)
 - Crooked Jay Brewing
 - Spider City Brewing
-- (Bevel Craft Brewing)[https://g.page/bevelcraftbrewing]
+- [Bevel Craft Brewing](https://g.page/bevelcraftbrewing)
 
 ## Bend Food
 
