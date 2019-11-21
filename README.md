@@ -87,6 +87,7 @@ Please check out our calendar and feel free to join our [slack channel](https://
 - Immersion: 2$ off drafts
 - Cascade Lakes: Taco Tuesday 4$ margs
 - Cabin 22: Taco Tuesday 5$ margs
+- Bevel: $1 off drinks and discount on growler fills
 
 **Wednesday**
 - White Water Taphouse: 1$ off pints (sushi wed - Fri)
@@ -102,7 +103,7 @@ Please check out our calendar and feel free to join our [slack channel](https://
 - Good Life: 3$ select pints
 
 **All week**
-- Cruz at sunset
+- Crux at sunset
 - The Commons happy hour
 
 
